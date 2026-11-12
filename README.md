@@ -1,4 +1,4 @@
-<h1 align="center">HEY 👋 I'M BxunNBA</h1>
+<h1 align="center">ขนาดชวนยังหลีกภัย แล้วมึงเป็นใครไม่หลีกกู</h1>
 
 <p align="center">
   <picture>
@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-MY SKILLS!!
+<h1 align="center">MYSKILLS!!</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
