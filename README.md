@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/RAINBOW_SIX_SIEGE-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="./hhh.svg" width="100%" alt="Header" />
-</p>
-
+Stats
+![](https://github-readme-stats.vercel.app/api?username=BejadiRajeshReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BejadiRajeshReddy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BejadiRajeshReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
