@@ -30,13 +30,8 @@
 </p>
 
 Stats
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BxunNBA&theme=dark&hide_border=false" width="49%" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
 </p>
