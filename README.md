@@ -8,8 +8,6 @@
   </picture>
 </p>
 
-<img src="https://raw.githubusercontent.com/BxunNBA/BxunNBA/output/pacman-contribution-graph.svg" />
-
 <p align="center">
   <img src="./rainbow.svg" width="450" alt="MYSKILLS!!" />
 </p>
@@ -32,5 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Header" />
+  <img src="./hhh.gif" width="100%" alt="Header" />
 </p>
+
