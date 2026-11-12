@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=MYSKILLS!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=MYSKILLS!!" />
 </p>
 
 <p align="center">
