@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=450&height=65&lines=MYSKILLS!!" />
+  <img src="./rainbow.svg" width="450" alt="MYSKILLS!!" />
 </p>
 
 <p align="center">
