@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/APEX_LEGENDS-DA292A?style=for-the-badge&logo=ea&logoColor=white" />
   <img src="https://img.shields.io/badge/PUBG-F2A900?style=for-the-badge&logo=pubg&logoColor=black" />
   <img src="https://img.shields.io/badge/FORTNITE-222222?style=for-the-badge&logo=fortnite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CALL_OF_DUTY-333333?style=for-the-badge&logo=callofduty&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELDEN_RING-9C854A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/POKEMON-FFCB05?style=for-the-badge&logo=pokemon&logoColor=222222" />
   <img src="https://img.shields.io/badge/RUST-C75B39?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/ARK-555555?style=for-the-badge&logo=ark&logoColor=white" />
