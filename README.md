@@ -8,24 +8,9 @@
   </picture>
 </p>
 
-<h1 align="center">
-  <svg width="400" height="65" viewBox="0 0 400 65" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow">
-        <stop offset="0%" stop-color="#FF0000"/>
-        <stop offset="20%" stop-color="#FF8C00"/>
-        <stop offset="40%" stop-color="#FFFF00"/>
-        <stop offset="60%" stop-color="#00FF00"/>
-        <stop offset="80%" stop-color="#0080FF"/>
-        <stop offset="100%" stop-color="#A020F0"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-size="38" font-weight="bold" fill="url(#rainbow)">
-      MYSKILLS!!
-    </text>
-  </svg>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=450&height=65&lines=MYSKILLS!!" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
