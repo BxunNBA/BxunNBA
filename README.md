@@ -14,4 +14,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
   <img src="https://img.shields.io/badge/POINT%20BLANK-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/POINT%20BLANK-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MINECRAFT-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/COUNTER--STRIKE%202-1D1D1D?style=for-the-badge&logo=counterstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTA%20V-000000?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROBLOX-000000?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
