@@ -8,13 +8,10 @@
   </picture>
 </p>
 
+MY SKILLS!!
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
   <img src="https://img.shields.io/badge/POINT%20BLANK-222222?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://www.pngegg.com/en/png-bjcbh" width="100" />
 </p>
