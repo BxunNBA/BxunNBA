@@ -30,6 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="./hhh.gif" width="100%" alt="Header" />
+  <img src="./hhh.svg" width="100%" alt="Header" />
 </p>
 
