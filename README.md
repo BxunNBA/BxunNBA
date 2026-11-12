@@ -30,6 +30,6 @@
 </p>
 
 Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BxunNBA&theme=dark&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=BxunNBA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BxunNBA&theme=dark&hide_border=false)
