@@ -14,3 +14,7 @@
   <img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
   <img src="https://img.shields.io/badge/POINT%20BLANK-222222?style=for-the-badge&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://www.pngegg.com/en/png-bjcbh" width="100" />
+</p>
