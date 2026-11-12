@@ -19,4 +19,9 @@
   <img src="https://img.shields.io/badge/COUNTER--STRIKE%202-1D1D1D?style=for-the-badge&logo=counterstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/GTA%20V-000000?style=for-the-badge&logo=rockstargames&logoColor=white" />
   <img src="https://img.shields.io/badge/ROBLOX-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/APEX_LEGENDS-DA292A?style=for-the-badge&logo=ea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBG-F2A900?style=for-the-badge&logo=pubg&logoColor=black" />
+  <img src="https://img.shields.io/badge/FORTNITE-222222?style=for-the-badge&logo=fortnite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TERRARIA-4B8B3B?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/CALL_OF_DUTY-333333?style=for-the-badge&logo=callofduty&logoColor=white" />
 </p>
