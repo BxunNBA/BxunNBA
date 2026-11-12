@@ -28,3 +28,7 @@
   <img src="https://img.shields.io/badge/RUST-C75B39?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/RAINBOW_SIX_SIEGE-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Header" />
+</p>
